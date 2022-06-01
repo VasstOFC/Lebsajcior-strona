@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Tiro+Tamil&display=swap');
+* {
+    font-family: 'Lato', sans-serif;
+}
+html {
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+}
+img {
+    max-width: 350px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: rgb(106, 108, 226);
+}
+p#download {
+    margin: 0;
+    font-size: 20px;
+    color:rgb(255, 136, 0)
+}
+p {
+    text-decoration: none;
+    color: rgb(106, 108, 226);
+}
+body {
+    margin: 0;
+}
